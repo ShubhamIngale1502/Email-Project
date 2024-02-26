@@ -1,0 +1,34 @@
+ERROR 2024-02-23 21:24:17,936 views 1984 17432 This Data seved with errors
+INFO 2024-02-23 21:24:45,948 views 1984 17432 The Employee is created
+INFO 2024-02-23 21:25:00,708 views 1984 17432 Employee data is fetched succesfully
+ERROR 2024-02-23 21:25:13,124 views 1984 17432 This Updated with errors
+ERROR 2024-02-23 21:26:10,543 views 1984 17432 This Updated with errors
+ERROR 2024-02-23 21:28:43,542 views 19472 15444 This Updated with errors
+INFO 2024-02-23 21:29:19,722 views 15284 18700 Employee Data Updated Succesfully
+INFO 2024-02-23 21:29:28,563 views 15284 18700 Employee Deleted Successfully
+INFO 2024-02-23 21:31:39,429 views 15284 18700 The Employee is created
+INFO 2024-02-23 21:32:40,950 views 15284 18700 Employee Data Updated Succesfully
+ERROR 2024-02-23 21:59:05,147 views 8516 20308 This Data seved with errors
+ERROR 2024-02-23 21:59:53,382 views 8516 20308 This Data seved with errors
+ERROR 2024-02-23 22:01:55,222 views 8516 20308 This Data seved with errors
+INFO 2024-02-23 22:03:47,934 views 424 11924 The Employee is created
+INFO 2024-02-23 22:07:11,570 views 424 11924 Employee data is fetched succesfully
+ERROR 2024-02-26 11:09:44,861 views 8960 18220 This Data seved with errors
+INFO 2024-02-26 11:10:44,434 views 8960 18220 Employee data is fetched succesfully
+INFO 2024-02-26 11:13:52,518 views 8960 18220 The Employee is created
+INFO 2024-02-26 11:14:57,671 views 8960 18220 Employee data is fetched succesfully
+INFO 2024-02-26 11:16:03,540 views 8960 18220 The Employee is created
+INFO 2024-02-26 11:21:33,096 views 18304 3968 The Employee is created
+INFO 2024-02-26 11:27:01,420 views 4888 13412 The Employee is created
+INFO 2024-02-26 11:35:22,582 views 4888 13412 The Employee is created
+ERROR 2024-02-26 11:38:35,570 views 4888 13412 This Data seved with errors
+INFO 2024-02-26 11:38:48,153 views 4888 13412 The Employee is created
+INFO 2024-02-26 11:45:48,782 views 5784 19020 The Employee is created
+INFO 2024-02-26 11:55:49,842 views 7832 14496 The Employee is created
+INFO 2024-02-26 12:40:56,774 views 4220 10964 The Employee is created
+INFO 2024-02-26 12:41:12,590 views 4220 10964 Employee data is fetched succesfully
+INFO 2024-02-26 12:42:11,588 views 4220 10964 Employee data is fetched succesfully
+ERROR 2024-02-26 12:42:31,246 views 4220 10964 This Updated with errors
+INFO 2024-02-26 12:43:24,063 views 4220 10964 Employee data is fetched succesfully
+INFO 2024-02-26 12:44:55,824 views 4220 10964 Employee Data Updated Succesfully
+INFO 2024-02-26 12:45:27,717 views 4220 10964 Employee Data Updated Succesfully
